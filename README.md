@@ -2,6 +2,8 @@ Hi 👋 My name is Tugdual NICOLAS
 ================================
 
 * 🌍  I'm based in France
+<a href="https://app.daily.dev/tugdualnicolas"><img src="https://api.daily.dev/devcards/4b83d7feba684648b21ce68798d8594e.png?r=e2b" width="400" alt="Tugdual NICOLAS's Dev Card"/></a>
+
 
 <a href="https://www.github.com/tugdualnicolas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tugdualnicolas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
